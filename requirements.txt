@@ -1,3 +1,4 @@
+requests
 2captcha-python
 loguru
 Pillow
